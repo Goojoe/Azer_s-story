@@ -1,4 +1,4 @@
-# 手记4 我喜欢你
+# 手记 4 我喜欢你
 
 ![](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/album/822826025b9595c1c6cf63358cd491b43f65a507.jpg)
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;在我写数学题苦思冥想而不得所解时，眼神忽而就落到了她的身上。“怎么了？”“没，没怎么。”这时的她抬头看了看我，而我眼神还有些躲闪之意。“你，害怕我吗？”“怎，怎么会。”“那你就正眼看看我，我又吃不了你。”她笑着看向我。
 
-&emsp;&emsp;刚才的我一直目光躲闪，现在终于鼓起勇气看向她：一脸清纯的长相，而眉宇之中还有些俏皮，十分可爱。“你是县一中的？”“是的。”“那你还挺厉害的。”“也就那样吧。”“还挺谦虚，我叫xxx是八中的（八中是仅次于一中的存在)，希望能和你交个朋友，你好。”“你好，我是xxx，是一中xx班的，请多关照。”
+&emsp;&emsp;刚才的我一直目光躲闪，现在终于鼓起勇气看向她：一脸清纯的长相，而眉宇之中还有些俏皮，十分可爱。“你是县一中的？”“是的。”“那你还挺厉害的。”“也就那样吧。”“还挺谦虚，我叫 xxx 是八中的（八中是仅次于一中的存在)，希望能和你交个朋友，你好。”“你好，我是 xxx，是一中 xx 班的，请多关照。”
 
 &emsp;&emsp;突然，楼下用钥匙开门的声音响了起来，“我家人回来了，我要走了，再见。”“嗯，再见。”
 
@@ -26,7 +26,7 @@
 &emsp;&emsp;后来，她渐渐地逐渐的走进了我的生活里。
 她喜欢艺术，爱好听音乐，画画，我对于音乐的热爱就是她培养起来的。她语文和英语好，数学相对差些，于是我们两个人就形成了互补，她教我语文的阅读理解和作文，英语的语法，而我就负责给她讲解数学大题。
 
-&emsp;&emsp;在写完作业之后，她也会陪着我散步，她总是会把耳机分我一半，一人一个耳塞，听着同一首歌。我难以忘记她向我讲述各个国家甚至各个艺人的音乐特点。她带我一起听完了**《Umbrella (Matte Remix)》**,她甚至对我说：**“You can stand under my umberlla.”**
+&emsp;&emsp;在写完作业之后，她也会陪着我散步，她总是会把耳机分我一半，一人一个耳塞，听着同一首歌。我难以忘记她向我讲述各个国家甚至各个艺人的音乐特点。她带我一起听完了`《Umbrella (Matte Remix)》`,她甚至对我说：“`You can stand under my umberlla.`”
 
 <center>
 <audio src="music\Umbrella (Matte Remix)-Ember Island_Matte.mp3" controls=""></audio>
@@ -35,18 +35,17 @@
 <p>▲Umbrella (Matte Remix)</p>
 </center>
 
-
->   You can stand under my umberlla
+> You can stand under my umberlla
 >
->   你可以站在我的伞下躲雨
+> 你可以站在我的伞下躲雨
 >
->   ---
+> ---
 >
->   PS:`Something Just Like This (Megamix)`也有同样的歌词，翻译是：
+> PS:`Something Just Like This (Megamix)`也有同样的歌词，翻译是：
 >
->   You can stand under my umbrella
->   
->   你可以站在我的雨伞下
+> You can stand under my umbrella
+>
+> 你可以站在我的雨伞下
 
 &emsp;&emsp;突如其来的一件事，使我们的关系更近了一步。
 
