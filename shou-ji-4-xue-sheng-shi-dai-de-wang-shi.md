@@ -26,8 +26,29 @@
 &emsp;&emsp;后来，她渐渐地逐渐的走进了我的生活里。
 她喜欢艺术，爱好听音乐，画画，我对于音乐的热爱就是她培养起来的。她语文和英语好，数学相对差些，于是我们两个人就形成了互补，她教我语文的阅读理解和作文，英语的语法，而我就负责给她讲解数学大题。
 
-&emsp;&emsp;在写完作业之后，她也会陪着我散步，她总是会把耳机分我一半，一人一个耳塞，听着同一首歌。我难以忘记她向我讲述各个国家甚至各个艺人的音乐特点。她带我一起听完了《CLOSER》,她甚至对我说：“You can stand under my umberlla.”
-突如其来的一件事，使我们的关系更近了一步。
+&emsp;&emsp;在写完作业之后，她也会陪着我散步，她总是会把耳机分我一半，一人一个耳塞，听着同一首歌。我难以忘记她向我讲述各个国家甚至各个艺人的音乐特点。她带我一起听完了**《Umbrella (Matte Remix)》**,她甚至对我说：**“You can stand under my umberlla.”**
+
+<center>
+<audio src="music\Umbrella (Matte Remix)-Ember Island_Matte.mp3" controls=""></audio>
+</center>
+<center>
+<p>▲Umbrella (Matte Remix)</p>
+</center>
+
+
+>   You can stand under my umberlla
+>
+>   你可以站在我的伞下躲雨
+>
+>   ---
+>
+>   PS:`Something Just Like This (Megamix)`也有同样的歌词，翻译是：
+>
+>   You can stand under my umbrella
+>   
+>   你可以站在我的雨伞下
+
+&emsp;&emsp;突如其来的一件事，使我们的关系更近了一步。
 
 &emsp;&emsp;那是一个周六，我家人都没有在家，但是我却发烧了，本来约好了一起出去散步，我却迟迟没有动身。
 
